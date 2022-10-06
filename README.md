@@ -1,3 +1,6 @@
+# I have no intention *(at the moment)* of creating an awesome README file. Hence I leave it as it is by default.
+## The main idea is just to showcase my project. Hope you'll find it exciting! :)
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
